@@ -1,0 +1,358 @@
+******
+**计算机输入**
+******  
+不同的计算机分辨率模式下，要对应不同的垂直频率、水平频率以及时钟频率，具体参数如下表：
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link rel=File-List href=".files/filelist.xml">
+<style id="�½� Microsoft Excel ������_17962_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font517962
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font617962
+	{color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Consolas, monospace;
+	mso-font-charset:0;}
+.font717962
+	{color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:��;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.xl1517962
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:����;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6517962
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Consolas, monospace;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#9BC2E6;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6617962
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Consolas, monospace;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6717962
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Consolas, monospace;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6817962
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Consolas, monospace;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:����;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;}
+-->
+</style>
+</head>
+
+<body>
+
+
+<div id="�½� Microsoft Excel ������_17962" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=750 style='border-collapse:
+ collapse;table-layout:fixed;width:564pt'>
+ <col width=125 span=6 style='mso-width-source:userset;mso-width-alt:3989;
+ width:94pt'>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td rowspan=2 height=54 class=xl6517962 width=125 style='height:40.0pt;
+  width:94pt'><font class="font717962">模式</font></td>
+  <td colspan=2 class=xl6517962 width=250 style='border-left:none;width:188pt'><font
+  class="font717962">分辨率</font></td>
+  <td colspan=3 class=xl6517962 width=375 style='border-left:none;width:282pt'><span
+  style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
+  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
+  text-decoration-style: initial;text-decoration-color: initial'><span
+  style='mso-spacerun:yes'>&nbsp;</span><font class="font717962">频率</font></span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6517962 style='height:20.0pt;border-top:none;
+  border-left:none'><span style='font-variant-ligatures: normal;font-variant-caps: normal;
+  orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
+  text-decoration-style: initial;text-decoration-color: initial'><font
+  class="font717962">水平（像素）</font></span></td>
+  <td class=xl6517962 style='border-top:none;border-left:none'><font
+  class="font717962">垂直（像素）</font></td>
+  <td class=xl6517962 style='border-top:none;border-left:none'><font
+  class="font717962">垂直</font><font class="font617962"> (Hz)</font></td>
+  <td class=xl6517962 style='border-top:none;border-left:none'><font
+  class="font717962">水平</font><font  class="font617962">(kHz)</font></td>
+  <td class=xl6517962 style='border-top:none;border-left:none'><font
+  class="font717962">时钟</font><font class="font617962"> (MHz)</font></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td rowspan=4 height=108 class=xl6617962 style='height:80.0pt;border-top:
+  none'>640 * 480</td>
+  <td rowspan=4 class=xl6617962 style='border-top:none'>640</td>
+  <td rowspan=4 class=xl6617962 style='border-top:none'>480</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'><span
+  lang=EN-US>59.940</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>31.469</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>25.175</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6717962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>72.809</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>37.861</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>31.500</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6717962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>75.000</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>37.500</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>31.500</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6717962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>85.008</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>43.269</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>36.000</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6717962 style='height:20.0pt;border-top:none'><span
+  lang=EN-US>720 * 400</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>720<span
+  style='mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>400</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>85.039</td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>37.927<span
+  style='mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=xl6717962 style='border-top:none;border-left:none'>35.500</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td rowspan=5 height=135 class=xl6817962 style='height:100.0pt;border-top:
+  none'><span lang=EN-US>800 * 600</td>
+  <td rowspan=5 class=xl6817962 style='border-top:none'>800</td>
+  <td rowspan=5 class=xl6817962 style='border-top:none'>600</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>56.250</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>35.156</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>36.000</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>60.317</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>37.879</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>40.000</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>72.188</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>48.077</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>50.000</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>75.000</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>46.875</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>49.500</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>85.061</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>53.673</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>56.250</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none'><span
+  lang=EN-US>832 * 624</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>832</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>624</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>74.550</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>49.725</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>57.283</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none'><span
+  lang=EN-US>848 * 480</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>848</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>480</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>60.000</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>31.020</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>33.750</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td rowspan=5 height=135 class=xl6817962 style='height:100.0pt;border-top:
+  none'><span lang=EN-US>1024 * 768</td>
+  <td rowspan=5 class=xl6817962 style='border-top:none'>1024</td>
+  <td rowspan=5 class=xl6817962 style='border-top:none'>768</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>60.004</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>48.363</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>65.000</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>70.069</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>56.476</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>75.000</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>75.029</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>60.023</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>78.750</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>84.997</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>68.678</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>94.500</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none;
+  border-left:none'><span lang=EN-US>74.700</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>60.134</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>79.857</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none'><span
+  lang=EN-US>1152 * 870</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>1152</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>870</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>75.062</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>68.682</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>100.001</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none'><span
+  lang=EN-US>1280 * 720</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>1280</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>720</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>60.000</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>45.000</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>74.250</span></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl6817962 style='height:20.0pt;border-top:none'><span
+  lang=EN-US>1152 * 864</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>1152</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>864</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>75.000</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>67.500</td>
+  <td class=xl6817962 style='border-top:none;border-left:none'>108.000</span></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=125 style='width:94pt'></td>
+  <td width=125 style='width:94pt'></td>
+  <td width=125 style='width:94pt'></td>
+  <td width=125 style='width:94pt'></td>
+  <td width=125 style='width:94pt'></td>
+  <td width=125 style='width:94pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+
+</body>
+
+</html>

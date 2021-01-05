@@ -1,0 +1,16 @@
+# 检查附件
+
+* 本投影仪随附以下附件。
+* 请确认包装中含有所有附件。
+* 若有任何遗漏或损坏，请联系您的销售代表或服务代表。
+
+
+| 附加 | 图示 | 
+|:-----:|:-----:|
+| 入门开始指南 | <img src="imagesQQ/C1P1.png" width = 50%/>  | 
+| AAA电池LR03 遥控器 | <img src="imagesQQ/C1P2.png" width = 50%/>  | 
+| CD-ROM | <img src="imagesQQ/C1P3.png" width = 50%/>| 
+| RGB电缆 | <img src="imagesQQ/C1P4.png" width = 50%/>| 
+| 电源线 | <img src="imagesQQ/C1P5.png" width = 50%/>| 
+| 保修卡 | <img src="imagesQQ/C1P6.png" width = 50%/>| 
+| 便捷包 | <img src="imagesQQ/C1P7.png" width = 30%/>| 

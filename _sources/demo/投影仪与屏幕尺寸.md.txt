@@ -1,0 +1,86 @@
+# 投影距离与屏幕尺寸之间的关系
+
+* 投影图像的尺寸取决于投影仪离屏幕的距离。
+* 请参考以下表格，将投影仪放置在合适的位置。
+* 表中提供的投影尺寸适用于未进行梯形校正调整的全尺寸图像。
+* 当缩放杆位于宽侧的末端时，投影距离变得最短，而当缩放杆位于长焦侧的末端时，投影距离变得最长。
+
+![](imagesQQ/C2P1.png)
+
+
+[^_^]: # (注：因md无法合并单元格，此处选择用html制作表格)
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>投影距离与屏幕尺寸之间的关系</title>
+    <style>
+        table,
+        table tr th,
+        table tr td {
+            border: 1px solid #000000;
+            margin: 0;
+            padding: 50px;
+            /* 合并边框 */
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <table>
+            <caption>投影距离与屏幕尺寸之间的关系</caption>
+            <tr>
+                <th rowspan="2">投影尺寸</th>
+                <th colspan="2">投影距离</th>
+                <th rowspan="2">投影高度</th>
+            </tr>
+            <tr>
+                <th>最短</th>
+                <th>最长</th>
+            </tr>
+            <tr>
+                <td>30 英寸</td>
+                <td>0.68 米（2.22 英尺）</td>
+                <td>1.05 米（3.45 英尺）</td>
+                <td>4 厘米（1 英寸）</td>
+            </tr>
+            <tr>
+                <td>40 英寸</td>
+                <td>0.92 米（3.02 英尺）</td>
+                <td>1.41 米（4.64 英尺）</td>
+                <td>5 厘米（2 英寸）</td>
+            </tr>
+            <tr>
+                <td>60 英寸</td>
+                <td>1.40 米（4.58 英尺）</td>
+                <td>2.13 米（6.99 英尺）</td>
+                <td>7 厘米（3 英寸）</td>
+            </tr>
+            <tr>
+                <td>100 英寸</td>
+                <td>2.34 米（7.68 英尺）</td>
+                <td>3.58 米（11.75 英尺）</td>
+                <td>12 厘米（5 英寸）</td>
+            </tr>
+            <tr>
+                <td>150 英寸</td>
+                <td>3.54 米（11.60 英尺）</td>
+                <td>5.39 米（17.67 英尺）</td>
+                <td>18 厘米（7 英寸）</td>
+            </tr>
+            <tr>
+                <td>200 英寸</td>
+                <td>4.73 米（15.50 英尺）</td>
+                <td>7.20 米（23.61 英尺）</td>
+                <td>24 厘米（9 英寸）</td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+
+
+
